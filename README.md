@@ -42,14 +42,14 @@ At url http://localhost:9393/metrics/field-value-counters/mostUsedUrl
     		}
     	],
     	"counts": {
-    		"/nfe/NFe41120904677990000158550010000089891892002430": 1,
-    		"/reports/fornecedores": 1,
+    		"/fruit/1": 1,
+    		"/reports/supplier": 1,
     		"/home": 4,
-    		"/nfes": 1,
-    		"/nfe/list": 3,
-    		"/fornecedor/list": 1,
-    		"/fornecedores": 1,
-    		"/cliente/autocomplete": 2
+    		"/fruits": 1,
+    		"/fruits/list": 3,
+    		"/suplier/list": 1,
+    		"/supliers": 1,
+    		"/supliers/autocomplete": 2
     	}
     }
 
